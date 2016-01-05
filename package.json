@@ -11,5 +11,9 @@
     "name": "takoba",
     "url": "https://github.com/takoba"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "electron-packager": "^5.2.0",
+    "electron-prebuilt": "^0.36.2"
+  }
 }
